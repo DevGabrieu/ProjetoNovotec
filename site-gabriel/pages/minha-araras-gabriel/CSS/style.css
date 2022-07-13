@@ -1,0 +1,38 @@
+    .maintitle {
+        font-size: 156px;
+        text-align: Center;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    }
+    .body {
+        font-size: 56px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .body1 {
+        font-size: 36px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .titles {
+        font-size: 48px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif
+    }
+    .bbd {
+        font-size: 18px;
+        text-align: end;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    body{
+        height: 100vh;
+        background: url(documentos/minha-araras-gabriel/img/foto_araras.jpg) no-repeat;
+    }
+        .center {
+            position: ;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            width: 460px;
+            margin: auto;
+        }

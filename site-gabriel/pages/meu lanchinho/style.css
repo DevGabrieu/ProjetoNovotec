@@ -1,0 +1,19 @@
+.titulo-main {
+    text-align: center;
+    font-size: 56px;
+}
+.subtitulo-main {
+    text-align: center;
+    font-size: 48px;
+}
+.titulo-conteudo-main {
+    text-align: center;
+    font-size: 36px;
+}
+.conteudo-main {
+    text-align: center;
+    font-size: 24px;   
+}
+.imagem-de-fundo {
+    background-color: red;
+}
